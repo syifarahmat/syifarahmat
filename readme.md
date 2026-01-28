@@ -1,13 +1,4 @@
 ## @ Tukang Pecut Juru Ketik 👋
-[![Alt](https://repobeats.axiom.co/api/embed/936204ae9978c3f6b72eb08ce07534ab97bbd6d2.svg)](https://syifarahmat.github.io/)
-
-<a href="https://syifarahmat.github.io/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=syifarahmat&text_bold=false&show_icons=true&rank_icon=github&show=" />
-</a>
-<a href="https://syifarahmat.github.io/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=315&custom_title=%C2%A9Tukang%20Pecut%20Juru%20Ketik%E2%84%A2%27s%20Top" />
-</a>
-
 ## Train
 This diagram is How confusing my train of thought is
 ```mermaid
@@ -24,6 +15,7 @@ sequenceDiagram
     Learn->>Think: Open
     Think->>Sleep: Close
 ```
+[*Use My Train*](https://mermaid.live/edit#pako:eNptkEtPxCAUhf9Kc9e1YSp9wGIWjgsXGheamBg2pL22ZApU2sZH0_8ugx2NM8KGc07Od4EZKlsjcBjwdUJT4bWSjZNamMivXrpRVaqXZowetBfn9mOrzP7cvkXpzD-QDrEXaxCIF9ttQPDoChu1JsHxSaDw6Ma-fftBez9gePTUyvVGwfhF3VlnlGn-ltbsvseTKStt19kBIYbGqRr46CaMQaPT8iBhPnQEjC1qFMD9sZZuL0CYxXf8456t1ceas1PTAn-R3eDV1NdyPH7sj-vQ1Oh2djIj8JQGBvAZ3oFvaJmwzG-SUUbylOQxfHibkISWtGBlXqYFY5dLDJ9hKknKgjK_CpZtCCOkWL4AGdqVjA)
 
 ## Project
 This timeline is some of the projects that I have handled so far
@@ -52,3 +44,4 @@ timeline
     2026 : ERPro Sales Project
          : ERPro Sales Visit
 ```
+[*Use My Project*](https://mermaid.live/edit#pako:eNptk9uOmzAQhl_F8jVCBhJzuNvNtt1WIkrJqpUqbgzMJm6wjYyRuo3y7h2ClhUVc2X_v78Zjw9XWpsGaEadVNBKDaUmGCELOMlIbirZAtkV-STfIyM_ofrQcGmCWgFdK2vhjCVPj7OTonPI8-MCR5Q8GnOR-rTQv4FGrScPgzNKOGn0e56QoT3K5DNCYGc9Qv1TcbAGE-JObdcKB4ukk7sfVAX2_4KTtzNKgXYrzrPssZ-3dQZLyVVqd4b6Qg6ibWFpPxf5kRyhHnx_WjS3sRkP9Sxc_9B12Mla1hcr6st6A3tw_hjk8HX_ZQ0F1Rkr3hvBetsP1jj5Ot7bfNoLtBBVJV3-fSb5bB1FCz3B0W-o1zY8-T9kLx316MnKhmavou3BowqsEuOcXkewpO4MCkqa4bAR9lLSUt8Q6oT-ZYyimbMDYtYMp_OcZOgavOsnKU5WqFm1oBuwOzNoR7MwCMN7Fppd6R-cb_wwSFKWRPEm3qSMRx59Q5nFfpoGYcJ5yFnK-c2jf-91mZ_EW4YRRCxKtozHHoVG4qPIp19z_zy3f8Nq6pE)
