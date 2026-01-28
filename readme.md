@@ -7,3 +7,21 @@
 <a href="https://syifarahmat.github.io/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=315&custom_title=%C2%A9Tukang%20Pecut%20Juru%20Ketik%E2%84%A2%27s%20Top" />
 </a>
+
+## Train
+This diagram is How confusing my train of thought is:
+
+```mermaid
+sequenceDiagram
+    participant Smart
+    participant Think
+    participant Learn
+    participant Sleep
+
+    Smart->>Think: Begin
+    Think->>Learn: How
+    Learn->>Sleep: What
+    Sleep->>Think: Morning
+    Learn->>Think: Open
+    Think->>Sleep: Close
+```
